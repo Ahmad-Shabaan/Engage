@@ -95,8 +95,8 @@ ul {
   height: 700px;
   width: 100%;
   background-image: url("/assets/fashion-1636868_1920.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
+  background-attachment: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
